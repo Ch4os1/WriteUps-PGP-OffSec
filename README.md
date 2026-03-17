@@ -1,4 +1,19 @@
-# WriteUps-PGP-OffSec (For OSCP Practice) - 0/77
+# WriteUps-PGP-OffSec (For OSCP Practice) - 0/78
+
+
+---
+
+## 📊 CPTS Prep Progress (Static Snapshot)
+
+| Category        | Completed | Progress        |
+| --------------- | --------- | --------------- |
+| 🟢 Easy         | 0 / 5     | 0%              |
+| 🟡 Intermediate | 0 / 26    | 0%              |
+| 🔴 Hard         | 0 / 25    | 0%              |
+| 🤯 Very Hard    | 0 / 16    | 0%              |
+| 🔵 AD           | 0 / 6     | 0%              |
+
+---
 
 
 ## 🧩 Box Lists
