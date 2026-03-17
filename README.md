@@ -6,109 +6,109 @@
 
 ### 🟢 Easy (0/5)
 #### Linux
-Levram
-Gaara
+- Levram
+- Gaara
 
 #### Windows
-Kevin
-Internal
-Algernon
+- Kevin
+- Internal
+- Algernon
 
 
 ### Intermediate (0/26)
 #### Linux
-ClamAV
-Pelican
-Payday
-Snookums
-Bratarina
-Nibbles
-ZenPhoto
-Cockpit
-Extplorer
-Walla
-PC
-Sorcerer
-Astronaut
-Bullybox
-Exfiltrated
-QuackerJack
-Wombo
-Flu
-Mzeeav
-Ochima
-SpiderSociety
-FunboxEasyEnum
-Loly
-Potato
-BBScute
+- ClamAV
+- Pelican
+- Payday
+- Snookums
+- Bratarina
+- Nibbles
+- ZenPhoto
+- Cockpit
+- Extplorer
+- Walla
+- PC
+- Sorcerer
+- Astronaut
+- Bullybox
+- Exfiltrated
+- QuackerJack
+- Wombo
+- Flu
+- Mzeeav
+- Ochima
+- SpiderSociety
+- FunboxEasyEnum
+- Loly
+- Potato
+- BBScute
 
 
 #### Windows
-Slort
+- Slort
 
 ### Hard (0/25)
 #### Linux
-Pebbles
-Nukem
-Sybaris
-Peppo
-Fanatasitc
-Roquefort
-LaVita
-Xposedapi
-Fired
-Vmdak
-Zab
-Amaterasu
-Stapler
-Blogger
+- Pebbles
+- Nukem
+- Sybaris
+- Peppo
+- Fanatasitc
+- Roquefort
+- LaVita
+- Xposedapi
+- Fired
+- Vmdak
+- Zab
+- Amaterasu
+- Stapler
+- Blogger
 
 #### Windows
-Jacko
-Craft
-Squid
-Nickel
-MedJed
-Billyboss
-Shenzi
-AuthBy
-DVR4
-Mice
-Fish
+- Jacko
+- Craft
+- Squid
+- Nickel
+- MedJed
+- Billyboss
+- Shenzi
+- AuthBy
+- DVR4
+- Mice
+- Fish
 
 
 ### Very Hard (0/16)
 #### Linux
-Hetemit
-Clue
-Postfish
-Hawat
-Apex
-Hunit
-Readys
-Marketing
-Zipper
-Scrutiny
-SPX
-Mantis
-BitForge
-WallpaperHub
+- Hetemit
+- Clue
+- Postfish
+- Hawat
+- Apex
+- Hunit
+- Readys
+- Marketing
+- Zipper
+- Scrutiny
+- SPX
+- Mantis
+- BitForge
+- WallpaperHub
 
 #### Windows
-Hepet
-Monster
+- Hepet
+- Monster
 
 ### AD (0/6)
 #### Hard
-Hutch
-Vault
+- Hutch
+- Vault
 
 #### Very Hard
-Access
-Resourced
-Nagoya
-Hokkaido
+- Access
+- Resourced
+- Nagoya
+- Hokkaido
 
 
 
