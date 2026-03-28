@@ -1,4 +1,4 @@
-# WriteUps-PGP-OffSec (For OSCP Practice) - 0/78
+# WriteUps-PGP-OffSec (For OSCP Practice) 
 A complete collection of OffSec PGP write-ups used for OSCP preparation. Each write-up documents my process, methodology, and lessons learned while honing red team and pentesting skills.
 
 For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
@@ -9,7 +9,7 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 
 | Category        | Completed | Progress        |
 | --------------- | --------- | --------------- |
-| 🟢 Easy         | 1 / 6     | 0%              |
+| 🟢 Easy         | 2 / 6     | 0%              |
 | 🟡 Intermediate | 0 / 25    | 0%              |
 | 🔴 Hard         | 0 / 25    | 0%              |
 | 🤯 Very Hard    | 0 / 16    | 0%              |
@@ -21,9 +21,9 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 ## 🧩 Box Lists
 
 
-### 🟢 Easy (0/6)
+### 🟢 Easy (2/6)
 #### Linux
-- Levram
+- Levram (Completed)
 - Gaara
 - ClamAV (Completed)
 
