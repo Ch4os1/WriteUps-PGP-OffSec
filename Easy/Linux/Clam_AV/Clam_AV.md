@@ -1,4 +1,3 @@
-## Clam_AV
 
 ### Lab Details 
 

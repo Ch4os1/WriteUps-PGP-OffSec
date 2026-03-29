@@ -1,0 +1,70 @@
+$ nmap 192.168.61.45 -sC -A -p- --min-rate 1000
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-03-29 09:23 +0000
+Nmap scan report for 192.168.61.45
+Host is up (0.00044s latency).
+Not shown: 65523 closed tcp ports (reset)
+PORT      STATE SERVICE       VERSION
+80/tcp    open  http          GoAhead WebServer
+| http-title: HP Power Manager
+|_Requested resource was http://192.168.61.45/index.asp
+|_http-server-header: GoAhead-Webs
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds  Windows 7 Ultimate N 7600 microsoft-ds (workgroup: WORKGROUP)
+3389/tcp  open  ms-wbt-server Microsoft Terminal Service
+| ssl-cert: Subject: commonName=kevin
+| Not valid before: 2026-03-28T09:18:54
+|_Not valid after:  2026-09-27T09:18:54
+|_ssl-date: 2026-03-29T09:25:19+00:00; 0s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: KEVIN
+|   NetBIOS_Domain_Name: KEVIN
+|   NetBIOS_Computer_Name: KEVIN
+|   DNS_Domain_Name: kevin
+|   DNS_Computer_Name: kevin
+|   Product_Version: 6.1.7600
+|_  System_Time: 2026-03-29T09:25:12+00:00
+3573/tcp  open  tag-ups-1?
+49152/tcp open  msrpc         Microsoft Windows RPC
+49153/tcp open  msrpc         Microsoft Windows RPC
+49154/tcp open  msrpc         Microsoft Windows RPC
+49155/tcp open  msrpc         Microsoft Windows RPC
+49158/tcp open  msrpc         Microsoft Windows RPC
+49159/tcp open  msrpc         Microsoft Windows RPC
+Device type: general purpose
+Running: Microsoft Windows 2008|7|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows 7 or Windows Server 2008 R2, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+Network Distance: 2 hops
+Service Info: Host: KEVIN; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2026-03-29T09:25:12
+|_  start_date: 2026-03-29T09:19:43
+|_nbstat: NetBIOS name: KEVIN, NetBIOS user: <unknown>, NetBIOS MAC: 00:50:56:86:eb:f4 (VMware)
+| smb-os-discovery: 
+|   OS: Windows 7 Ultimate N 7600 (Windows 7 Ultimate N 6.1)
+|   OS CPE: cpe:/o:microsoft:windows_7::-
+|   Computer name: kevin
+|   NetBIOS computer name: KEVIN\x00
+|   Workgroup: WORKGROUP\x00
+|_  System time: 2026-03-29T02:25:12-07:00
+|_clock-skew: mean: 1h24m00s, deviation: 3h07m49s, median: 0s
+| smb2-security-mode: 
+|   2.1: 
+|_    Message signing enabled but not required
+| smb-security-mode: 
+|   account_used: guest
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+
+TRACEROUTE (using port 110/tcp)
+HOP RTT     ADDRESS
+1   0.26 ms 192.168.49.1
+2   0.47 ms 192.168.61.45
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 104.73 seconds
+
