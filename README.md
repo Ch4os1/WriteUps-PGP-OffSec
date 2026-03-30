@@ -9,8 +9,8 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 
 | Category        | Completed | Progress |
 | --------------- | --------- | -------- |
-| 🟢 Easy         | 3 / 6     | 0%       |
-| 🟡 Intermediate | 0 / 25    | 0%       |
+| 🟢 Easy         | 6 / 6     | 0%       |
+| 🟡 Intermediate | 1 / 25    | 0%       |
 | 🔴 Hard         | 0 / 25    | 0%       |
 | 🤯 Very Hard    | 0 / 16    | 0%       |
 | 🔵 AD           | 0 / 7     | 0%       |
@@ -28,14 +28,14 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - ClamAV (Completed)
 
 #### Windows
-- Kevin
-- Internal
-- Algernon
+- Kevin (Completed)
+- Internal (Completed)
+- Algernon (Completed)
 
 
 ### 🟡 Intermediate (0/25)
 #### Linux
-- Pelican
+- Pelican (Completed)
 - Payday
 - Snookums
 - Bratarina
