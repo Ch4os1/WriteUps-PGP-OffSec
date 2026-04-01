@@ -14,7 +14,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | 🔴 Hard                           | 0 / 25    | 0%              |
 | 🤯 Very Hard                      | 0 / 16    | 0%              |
 | 🔵 AD                             | 0 / 7     | 0%              |
-| ⛓️‍💥 Chains (Mini Prolab on HTB) | 0/4       | 0%              |
+| ⛓️‍💥 Chains (Mini Prolab on HTB) | 0 / 8     | 0%              |
 
 ---
 
@@ -126,7 +126,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Nagoya
 - Hokkaido
 
-### ⛓️‍💥 Chains (0/4) 
+### ⛓️‍💥 Chains (0/8) 
 - Trusted
 - Reflection
 - Heron
