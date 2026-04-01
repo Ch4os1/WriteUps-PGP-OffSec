@@ -1,0 +1,29 @@
+$ nmap 192.168.58.27 -sC -sV -A -p-
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-04-01 21:00 +0000
+Nmap scan report for bullybox.local (192.168.58.27)
+Host is up (0.00062s latency).
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.1 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 b9:bc:8f:01:3f:85:5d:f9:5c:d9:fb:b6:15:a0:1e:74 (ECDSA)
+|_  256 53:d9:7f:3d:22:8a:fd:57:98:fe:6b:1a:4c:ac:79:67 (ED25519)
+80/tcp open  http    Apache httpd 2.4.52 ((Ubuntu))
+|_http-server-header: Apache/2.4.52 (Ubuntu)
+| http-git: 
+|   192.168.58.27:80/.git/
+|     Git repository found!
+|     Repository description: Unnamed repository; edit this file 'description' to name the...
+|_    Last commit message: Ready For launch 
+| http-robots.txt: 8 disallowed entries 
+| /boxbilling/bb-data/ /bb-data/ /bb-library/ 
+|_/bb-locale/ /bb-modules/ /bb-uploads/ /bb-vendor/ /install/
+|_http-title: Client Area 
+Device type: general purpose
+Running: Linux 4.X
+OS CPE: cpe:/o:linux:linux_kernel:4
+OS details: Linux 4.19 - 5.15
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+
