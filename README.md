@@ -34,7 +34,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Algernon (Completed)
 
 
-### 🟡 Intermediate (12/23)
+### 🟡 Intermediate (23/23)
 #### Linux
 - Pelican (Completed)
 - Payday (Completed)
