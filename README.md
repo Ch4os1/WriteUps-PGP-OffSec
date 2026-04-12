@@ -63,16 +63,16 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 
 ### 🔴 Hard (0/25)
 #### Linux
-- Pebbles
-- Nukem
-- Sybaris
-- Peppo
-- Fanatasitc
-- Roquefort
-- LaVita
-- Xposedapi
-- Fired
-- Vmdak
+- Pebbles (Completed)
+- Nukem (Completed)
+- Sybaris (Completed)
+- Peppo (Completed)
+- Fanatasitc (Completed)
+- Roquefort (Completed)
+- LaVita (Completed)
+- Xposedapi (Completed)
+- Fired (Completed)
+- Vmdak (Completed)
 - Zab
 - Amaterasu
 - Stapler
