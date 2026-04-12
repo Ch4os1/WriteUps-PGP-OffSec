@@ -1,5 +1,5 @@
 # OSCP Practice Prep List 
-A complete collection of OffSec PG labs and HTB prob labs used for OSCP preparation. 
+A complete collection of OffSec PG labs and HTB prob labs used for OSCP preparation. <br>
 **NOTE**: As required by OffSec this repo will not contain actual writeups. 
 
 For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
@@ -12,7 +12,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | --------------------------------- | --------- | --------------- |
 | 🟢 Easy                           | 6 / 6     | ██████████ 100% |
 | 🟡 Intermediate                   | 23 / 23   | ██████████ 100% |
-| 🔴 Hard                           | 0 / 25    | 0%              |
+| 🔴 Hard                           | 10 / 25   | ███ 40%         |
 | 🤯 Very Hard                      | 0 / 16    | 0%              |
 | 🔵 AD                             | 0 / 7     | 0%              |
 | ⛓️‍💥 Chains (Mini Prolab on HTB) | 0 / 8     | 0%              |
