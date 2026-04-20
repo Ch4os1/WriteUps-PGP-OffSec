@@ -14,7 +14,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | --------------------------------- | --------- | --------------- |
 | 🟢 Easy                           | 6 / 6     | ██████████ 100% |
 | 🟡 Intermediate                   | 23 / 23   | ██████████ 100% |
-| 🔴 Hard                           | 10 / 25   | ███ 40%         |
+| 🔴 Hard                           | 29 / 29   | ██████████ 100% |
 | 🤯 Very Hard                      | 0 / 16    | 0%              |
 | 🔵 AD                             | 0 / 7     | 0%              |
 | ⛓️‍💥 Chains (Mini Prolab on HTB) | 0 / 8     | 0%              |
@@ -64,7 +64,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 #### Windows
 - Slort (Completed)
 
-### 🔴 Hard (10/25)
+### 🔴 Hard (29/29)
 #### Linux
 - Pebbles (Completed)
 - Nukem (Completed)
@@ -86,17 +86,19 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Jacko (Completed)
 - Craft (Completed)
 - Squid (Completed)
-- Nickel 
-- MedJed
-- Billyboss
-- Shenzi
-- AuthBy
-- DVR4
-- Mice
-- Fish
-- Osaka
+- Nickel (Completed)
+- MedJed (Completed)
+- Billyboss (Completed)
+- Shenzi (Completed)
+- AuthBy (Completed)
+- DVR4 (Completed)
+- Mice (Completed)
+- Fish (Completed)
+#### AD
+- Hutch (Completed)
+- Vault (Completed)
 
-### 🤯 Very Hard (0/16)
+### 🤯 Very Hard (0/23)
 #### Linux
 - Hetemit
 - Clue
@@ -112,23 +114,18 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Mantis
 - BitForge
 - WallpaperHub
-
 #### Windows
 - Hepet
 - Monster
-
-### 🔵 AD (0/7)
-#### Hard
-- Hutch
-- Vault
-- Heist
-
-#### Very Hard
+- Osaka 
+#### AD
 - Access
 - Resourced
 - Nagoya
 - Hokkaido
 - Nara
+- Heist
+
 ### ⛓️‍💥 Chains (0/8) 
 - Trusted
 - Reflection
@@ -139,6 +136,19 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - RPG
 - Tengu
 
+
+### HTB (Windows 0/11)
+- Markup - Easy
+- Giddy - Medium
+- Bounty - Easy
+- Artic - Easy
+- Love - Easy
+- Mailling - Easy
+- Heist - Easy
+- Signed - Medium
+- Eighteen - Easy
+- Sizzle - Insane
+- Mist - Insane
 ## Additional Boxes (0/26)
 ### Linux (Easy - Intermediate)
 - Twiggy
@@ -168,16 +178,6 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Sams
 - BRTSys2.1
 
-### HTB (Windows 0/9)
-- Markup - Easy
-- Giddy - Medium
-- Bounty - Easy
-- Artic - Easy
-- Love - Easy
-- Mailling - Easy
-- Heist - Easy
-- Signed - Medium
-- Eighteen - Easy
 ## References
 
 https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
