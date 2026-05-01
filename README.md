@@ -1,7 +1,9 @@
 # OSCP Practice Prep Check List 
-A  collection of OffSec     PG labs, HTB Labs and HTB prob labs used for OSCP preparation. <br>
-Use this check list as a reference to practice pentesting skills and knowledege. <br>
-A writeup template is included, feel free to download and use it to document each box<br>
+A  collection of OffSec  PG labs, HTB Labs and HTB prob labs I used for OSCP preparation. <br>
+It is a combination of [Lainkusanagi OSCP Like](https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/edit?gid=487240997#gid=487240997) and [NetSecFocus Trophy Room](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview) with extra boxes. 
+
+Use this check list as a reference to practice for OSCP. <br>
+A writeup template is included, feel free to download and use it to document each box.<br>
 **NOTE**: As required by OffSec this repo will not contain actual writeups. 
 
 For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
@@ -12,9 +14,9 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 
 | Category                          | Completed | Progress        |
 | --------------------------------- | --------- | --------------- |
-| 🟢 Easy                           | 6 / 6     | ██████████ 100% |
-| 🟡 Intermediate                   | 23 / 23   | ██████████ 100% |
-| 🔴 Hard                           | 29 / 29   | ██████████ 100% |
+| 🟢 Easy                           | 8 / 8     | ██████████ 100% |
+| 🟡 Intermediate                   | 29 / 29   | ██████████ 100% |
+| 🔴 Hard                           | 31 / 31   | ██████████ 100% |
 | 🤯 Very Hard                      | 22 / 22   | ██████████ 100% |
 | 🔵 AD                             | 8 / 8     | ██████████ 100% |
 | 🟩 HTB Windows Boxes              | 0 / 11    | 0%              |
@@ -26,19 +28,20 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 ## 🧩 Box Lists
 
 
-### 🟢 Easy (6/6)
+### 🟢 Easy (8/8)
 #### Linux
 - Levram (Completed)
 - Gaara (Completed)
 - ClamAV (Completed)
-
+- Crane (Completed)
+- Hub (Completed)
 #### Windows
 - Kevin (Completed)
 - Internal (Completed)
 - Algernon (Completed)
 
 
-### 🟡 Intermediate (23/23)
+### 🟡 Intermediate (29/29)
 #### Linux
 - Pelican (Completed)
 - Payday (Completed)
@@ -62,10 +65,16 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - FunboxEasyEnum (Completed)
 - Loly (Completed)
 - Potato (Completed)
+- Law (Completed)
+- RubyDome (Completed)
+- Pwned1 (Completed)
+- Geisha (Completed)
+- Twiggy
+- Zino
 #### Windows
 - Slort (Completed)
 
-### 🔴 Hard (29/29)
+### 🔴 Hard (31/31)
 #### Linux
 - Pebbles (Completed)
 - Nukem (Completed)
@@ -83,6 +92,8 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Blogger (Completed)
 - Blackgate (Completed)
 - InsantiyHosting (Completed)
+- Exghost (Completed)
+- Muddy (Completed)
 #### Windows
 - Jacko (Completed)
 - Craft (Completed)
@@ -162,7 +173,6 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Image
 - Law
 - Press
-- RubyDome
 - Workaholic
 - PyLoader
 - Plum
