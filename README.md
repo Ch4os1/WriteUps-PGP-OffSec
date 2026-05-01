@@ -69,8 +69,8 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - RubyDome (Completed)
 - Pwned1 (Completed)
 - Geisha (Completed)
-- Twiggy
-- Zino
+- Twiggy (Completed)
+- Zino (Completed)
 #### Windows
 - Slort (Completed)
 
