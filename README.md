@@ -164,14 +164,11 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - To be decided 
 #### More on Phishing
 - To be decided 
-## Additional Boxes (0/26)
+## Additional Boxes 
 ### Linux (Easy - Intermediate)
-- Twiggy
 - Booleann
 - Codo
-- Hub
 - Image
-- Law
 - Press
 - Workaholic
 - PyLoader
