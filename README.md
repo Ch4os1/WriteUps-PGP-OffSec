@@ -137,7 +137,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Nara (Completed)
 - Heist (Completed)
 
-### ⛓️‍💥 Chains (0/6) 
+### ⛓️‍💥 Chains (1/6) 
 - POO (Completed)
 - Trusted
 - Heron
