@@ -138,12 +138,8 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Heist (Completed)
 
 ### ⛓️‍💥 Chains (1/6) 
-- POO (Completed)
-- Trusted
+- POO (Completed) 
 - Heron
-- Kaiju
-- Tengu
-- Hades
 ### Targeted Trainings
 #### More on Windows - HTB (0/11)
 - Markup - Easy
@@ -187,10 +183,16 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - BRTSys2.1
 
 ## Additional Chained Labs (HTB)
-- Reflection
-- Intercept
-- Sidecar
-- RPG
+- RedTeam: Requires understanding of Evasion
+	- Kaiju
+	- Tengu
+	- Hades
+	- Trusted
+- Multiple Entries: Similar to a normal Pro Lab
+	- Reflection
+	- Intercept
+	- Sidecar
+	- RPG
 ## References
 
 https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
