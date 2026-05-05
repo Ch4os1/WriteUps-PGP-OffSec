@@ -20,7 +20,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | 🤯 Very Hard                      | 22 / 22   | ██████████ 100% |
 | 🔵 AD                             | 8 / 8     | ██████████ 100% |
 | 🟩 HTB Windows Boxes              | 0 / 11    | 0%              |
-| ⛓️‍💥 Chains (Mini Prolab on HTB) | 1 / 6     | █ 16 %          |
+| ⛓️‍💥 Chains (Mini Prolab on HTB) | 1 / 2     | █████ 50 %      |
 
 ---
 
@@ -137,7 +137,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Nara (Completed)
 - Heist (Completed)
 
-### ⛓️‍💥 Chains (1/6) 
+### ⛓️‍💥 Chains (1/2) 
 - POO (Completed) 
 - Heron
 ### Targeted Trainings
